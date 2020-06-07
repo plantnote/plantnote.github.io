@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Keep your plants alive! # Optional
-marketing_desc: Fancy reminder & Note App for Indoor Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Keep your plants alive. # Optional
+marketing_desc: Don't forget to water your plants with this note & reminder app.
 
 #
 # Social Links
@@ -81,11 +81,11 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/wallpaperflare.com_wallpaper.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: black # Optional
+background_image: /images/backgrounds/88891.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
+download_button_background_color: "#009688" # Optional
 download_button_text_color: white; # Optional
 
 #
